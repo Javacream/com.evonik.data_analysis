@@ -76,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb.sage-jupyter2
 
 # IPython
 profile_default/
