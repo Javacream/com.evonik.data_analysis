@@ -9,7 +9,7 @@
   * you are logged on as user Atten Dee 
 ## open your first jupyter notebook
 * actions
-  * navigate to Evonik-project - python - introduction
+  * navigate to Evonik-project - com.evonik.python - 01-introduction
   * open the file hello-world
 * check
   * the file is opened in an editor
