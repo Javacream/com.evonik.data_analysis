@@ -6,5 +6,5 @@ Know is the time to work on some "real life" examples. A prepared set of csv-fil
 
 ### Examples
 
-* TODO: Prepare Pandas workshop examples from existing Excel-Training
-* TODO: Prepare Pandas workshop examples from more technical data, e.g. sensor measurements
+* __TODO: Prepare Pandas workshop examples from existing Excel-Training__
+* __TODO: Prepare Pandas workshop examples from more technical data, e.g. sensor measurements__
