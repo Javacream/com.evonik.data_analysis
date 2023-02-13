@@ -1,0 +1,28 @@
+erdiagram Model
+notation=default
+
+entity Person {
+    id: int key
+    lastname: string
+    firstname: string
+}
+
+entity Address {
+    id: int key
+    street: string
+    postalCode: int
+}
+
+entity Hotel {
+    id: int key
+    name: string
+}
+relationship person_has_address {
+    Person[N] -> Address[N]
+
+}
+
+relationship hotel_has_guests {
+    Hotel[1] -> Person[N]
+
+}
