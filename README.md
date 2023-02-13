@@ -1,5 +1,7 @@
 # com.evonik.data_analysis
 
+## learning journey
+
 * directory names correspond to path and unit nr
 * markdown file names:
   * todo
