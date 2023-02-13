@@ -1,6 +1,6 @@
 ## review presentation
 * actions
-  * open the file person.sql in Visual Studio Code
+  * open the file person.model.sql in Visual Studio Code
 * check
   * you see a ddl script 
 
