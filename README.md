@@ -1,4 +1,4 @@
-# com.evonik.dataprocessor.level2
+# com.evonik.data_analysis
 
 * directory names correspond to path and unit nr
 * markdown file names:
