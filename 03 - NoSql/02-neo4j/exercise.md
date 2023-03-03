@@ -1,1 +1,0 @@
-* locate and walk trough the movies tutorial

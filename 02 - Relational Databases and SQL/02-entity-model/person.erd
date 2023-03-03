@@ -1,8 +1,0 @@
-erdiagram Model
-notation=default
-
-entity Person {
-    id: int key
-    lastname: string
-    firstname: string
-}
